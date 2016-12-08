@@ -23,6 +23,7 @@ namespace WpfApplication1
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("Yusuf Demir");
         }
     }
 }
